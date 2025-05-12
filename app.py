@@ -1,5 +1,3 @@
-pip install ipywidgets
-
 import numpy as np
 import ipywidgets as widgets
 from IPython.display import display, Markdown
